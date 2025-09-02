@@ -35,6 +35,8 @@ Página web profesional y moderna para Servitec Streaming, empresa especializada
 ### Información de Contacto
 - **Especialista**: Luis Fernando Ferraro
 - **WhatsApp**: 3103755031
+- **WhatsApp**: 3023404273
+- **Correo**: servitec.streaming89@gmail.com
 - **Horario**: 24/7 - Lunes a Domingo
 
 ### Funcionalidades Técnicas
